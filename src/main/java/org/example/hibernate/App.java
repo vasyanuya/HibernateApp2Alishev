@@ -24,7 +24,7 @@ public class App {
 
 
 
-//            Person person = new Person("Test", 30);
+//            Prson person = new Person("Test", 30);
 //            Item newItem = new Item("Item from Hibernate 2", person);
 //            person.setItems(new ArrayList<>(Collections.singletonList(newItem)));
 //
